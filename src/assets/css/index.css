@@ -1,0 +1,23 @@
+html, body {
+  	height: 100%;
+}
+
+body {
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+	margin: 0;
+	background-color: #dbe8e4;  
+	font-family:
+		-apple-system,
+		BlinkMacSystemFont,
+		'Segoe UI',
+		'Roboto',
+		'Oxygen',
+		'Ubuntu',
+		'Cantarell',
+		'Fira Sans',
+		'Droid Sans',
+		'Helvetica Neue',
+		sans-serif;
+}
